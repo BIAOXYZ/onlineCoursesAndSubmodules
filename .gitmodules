@@ -1,0 +1,3 @@
+[submodule "notesFromOtherPlaces/math"]
+	path = notesFromOtherPlaces/math
+	url = https://github.com/apachecn/math.git
